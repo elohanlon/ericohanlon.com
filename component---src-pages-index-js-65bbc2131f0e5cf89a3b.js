@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkericohanlon_com=self.webpackChunkericohanlon_com||[]).push([[678],{6558:function(e,n,t){t.r(n);var l=t(7294),c=t(5414),o=t(8678);n.default=function(){return l.createElement(o.Z,null,l.createElement(c.Z,null,l.createElement("title",null,"Eric O'Hanlon - Home")),l.createElement("main",null,l.createElement("h1",null,"Welcome to the site!"),l.createElement("p",null,"Not much going on here right now, but thanks for stopping by!")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-65bbc2131f0e5cf89a3b.js.map
